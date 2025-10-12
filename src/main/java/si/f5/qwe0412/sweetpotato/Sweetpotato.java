@@ -17,6 +17,7 @@ import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.neoforge.event.server.ServerStartingEvent;
 import org.slf4j.Logger;
 import si.f5.qwe0412.sweetpotato.block.PotatoBlocks;
+import si.f5.qwe0412.sweetpotato.item.PotatoCreativeModeTabs;
 import si.f5.qwe0412.sweetpotato.item.PotatoItems;
 
 // The value here should match an entry in the META-INF/neoforge.mods.toml file
@@ -32,6 +33,8 @@ public class Sweetpotato {
     public Sweetpotato(IEventBus modEventBus, ModContainer modContainer) {
         // Register the commonSetup method for modloading
         modEventBus.addListener(this::commonSetup);
+
+        PotatoCreativeModeTabs.register(modEventBus);
 
         PotatoItems.register(modEventBus);
         PotatoBlocks.register(modEventBus);
