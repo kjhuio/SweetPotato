@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smoking",
+  "category": "food",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "group": "sweet_potato",
+  "ingredient":{
+    "item": "sweetpotato:sweet_potato"
+  },
+  "result": {
+    "id": "sweetpotato:baked_sweet_potato"
+  }
+}
