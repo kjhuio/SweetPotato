@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:purple_dye"
+    },
+    "P": {
+      "item": "minecraft:potato"
+    },
+    "C": {
+      "item": "minecraft:coal"
+    }
+  },
+  "pattern": [
+    "#P#",
+    "PCP",
+    "#P#"
+  ],
+  "result":{
+    "count": 1,
+    "id": "sweetpotato:sweet_potato"
+  }
+}
