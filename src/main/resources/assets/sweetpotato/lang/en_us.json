@@ -4,5 +4,7 @@
   "creativetab.sweetpotato.potato_block_tab": "SweetPotato Blocks",
   "item.sweetpotato.sweet_potato": "Sweet potato",
   "item.sweetpotato.baked_sweet_potato": "Baked sweet potato",
-  "block.sweetpotato.sweet_potato_block": "Sweet potato block"
+  "block.sweetpotato.sweet_potato_block": "Sweet potato block",
+  "item.sweetpotato.imokenpi": "Imokenpi",
+  "item.sweetpotato.imokenpi.tooltip": "Sweet potato snack coated with sugar syrup"
 }

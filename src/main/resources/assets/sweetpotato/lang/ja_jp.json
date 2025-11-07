@@ -4,5 +4,7 @@
   "creativetab.sweetpotato.potato_block_tab": "SweetPotato ブロック",
   "item.sweetpotato.sweet_potato": "サツマイモ",
   "item.sweetpotato.baked_sweet_potato": "焼き芋",
-  "block.sweetpotato.sweet_potato_block": "サツマイモブロック"
+  "block.sweetpotato.sweet_potato_block": "サツマイモブロック",
+  "item.sweetpotato.imokenpi": "芋けんぴ",
+  "item.sweetpotato.imokenpi.tooltip": "砂糖でコーティングされたサツマイモのお菓子"
 }

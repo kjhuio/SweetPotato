@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:sugar"
+    },
+    "P": {
+      "item": "sweetpotato:baked_sweet_potato"
+    }
+  },
+  "pattern": [
+    "#P#"
+  ],
+  "result":{
+    "count": 48,
+    "id": "sweetpotato:imokenpi"
+  }
+}
