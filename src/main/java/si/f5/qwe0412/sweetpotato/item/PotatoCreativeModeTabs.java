@@ -21,6 +21,7 @@ public class PotatoCreativeModeTabs {
             .displayItems((itemDisplayParameters, output) -> {
                 output.accept(PotatoItems.SWEET_POTATO);
                 output.accept(PotatoItems.BAKED_SWEET_POTATO);
+                output.accept(PotatoItems.IMOKENPI);
             })
             .build());
 
